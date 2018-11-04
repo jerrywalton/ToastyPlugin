@@ -1,0 +1,2 @@
+# ToastyPlugin
+demo ionic plugin

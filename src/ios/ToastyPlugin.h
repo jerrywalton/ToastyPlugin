@@ -1,0 +1,6 @@
+@interface ToastyPlugin : CDVPlugin
+{
+} 
+
+@end
+

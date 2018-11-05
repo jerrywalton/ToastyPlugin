@@ -18,6 +18,7 @@
     <js-module src="www/toastyplugin.js" name="toastyPlugin">
         <clobbers target="window.plugins.toastyPlugin" />
     </js-module>
+<!--
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="ToastyPlugin">
@@ -27,6 +28,7 @@
 
         <source-file src="src/android/ToastyPlugin.java" target-dir="src/com/jerrywalton/cordova/plugin" />
     </platform>
+-->
     <platform name="ios">
         <config-file parent="/*" target="config.xml">
 	    <feature name="ToastyPlugin">
